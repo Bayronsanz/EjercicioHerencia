@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EjercicioHerencia;
+
+
+Implementacion operaciones = new Implementacion(3);
+
+operaciones.Imprimir();        
+
+
